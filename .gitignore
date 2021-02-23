@@ -1,1 +1,10 @@
-*.csv
+# Data
+**/coco/*
+*.zip
+
+# Jupyter checkpoints
+.ipynb_checkpoints
+
+# pycache
+*.pyc
+*.pyo
